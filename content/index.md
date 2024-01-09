@@ -1,6 +1,5 @@
 ---
-title: The Dark Forest
+title: Welcome, Traveler.
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+My name is 0x. You are about to enter the [[thoughts/digital-garden | dark forest of thought]]
