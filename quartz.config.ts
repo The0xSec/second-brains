@@ -14,9 +14,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "IM Fell DW Pica",
-        body: "IM Fell DW Pica",
-        code: "IM Fell DW Pica",
+        header: "IM Fell English",
+        body: "IM Fell English",
+        code: "IM Fell English",
       },
       colors: {
         lightMode: {
