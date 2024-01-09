@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The Dark Forest
 ---
 
 This is a blank Quartz installation.
