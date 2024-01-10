@@ -1,4 +1,7 @@
 name: Deploy Quartz site to GitHub Pages
+
+env:
+  GITHUB_TOKEN: ${{ secrets.DO_SUMTHING }}
  
 on:
   push:
